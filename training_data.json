@@ -1,0 +1,322 @@
+[
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  },
+  {
+    "state": "{\"ticket_id\": 101, \"message\": \"My laptop won't turn on.\"}",
+    "noul_q": "Is this a hardware issue?",
+    "noul_target": [
+      0.95
+    ],
+    "choice_q": "Which department should handle this?",
+    "options": [
+      "Hardware Repair",
+      "Software Support",
+      "Billing",
+      "Sales"
+    ],
+    "choice_target": [
+      0.85,
+      0.1,
+      0.02,
+      0.03
+    ]
+  }
+]

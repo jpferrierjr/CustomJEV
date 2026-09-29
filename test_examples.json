@@ -1,0 +1,122 @@
+[
+    {
+        "title": "E-Commerce (Returns & Triage)",
+        "state": "{\"order_id\": 9923, \"customer_message\": \"My package arrived but the glass vase was completely shattered.\", \"days_since_delivery\": 2, \"loyalty_tier\": \"Gold\"}",
+        "noul_q": "Is the customer reporting physical damage to the product?",
+        "choice_q": "What is the appropriate customer service resolution?",
+        "options": [
+            "Issue Full Refund",
+            "Send Replacement",
+            "Deny Request",
+            "Escalate to Shipping Carrier"
+        ]
+    },
+    {
+        "title": "Cybersecurity (Threat Hunting)",
+        "state": "{\"alert_id\": \"SEC-092\", \"source_ip\": \"192.168.1.45\", \"event\": \"Multiple failed login attempts followed by successful access and immediate massive data egress.\", \"user_role\": \"Guest\"}",
+        "noul_q": "Does this alert indicate a potential data exfiltration event?",
+        "choice_q": "What is the required automated security response?",
+        "options": [
+            "Isolate Host",
+            "Block IP Address",
+            "Reset User Password",
+            "Mark as False Positive"
+        ]
+    },
+    {
+        "title": "Medical / Healthcare (Patient Triage)",
+        "state": "{\"patient_age\": 54, \"symptoms\": [\"chest tightness\", \"shortness of breath\", \"nausea\"], \"history\": [\"hypertension\"], \"vitals\": {\"bp\": \"160/95\", \"hr\": 110}}",
+        "noul_q": "Are the symptoms indicative of a potential cardiac event?",
+        "choice_q": "What triage priority level should be assigned to this patient?",
+        "options": [
+            "Level 1 - Resuscitation",
+            "Level 2 - Emergent",
+            "Level 3 - Urgent",
+            "Level 4 - Non-Urgent"
+        ]
+    },
+    {
+        "title": "DevOps (Incident Routing)",
+        "state": "{\"service\": \"auth-gateway\", \"error_code\": \"502 Bad Gateway\", \"logs\": \"Connection pool exhausted. Unable to reach database backend.\", \"environment\": \"Production\"}",
+        "noul_q": "Is this incident causing a complete service outage for users?",
+        "choice_q": "Which engineering team should be paged?",
+        "options": [
+            "Database Reliability",
+            "Frontend",
+            "Network Security",
+            "Cloud Infrastructure"
+        ]
+    },
+    {
+        "title": "Fraud Detection (Fintech)",
+        "state": "{\"transaction_id\": \"TX-9912\", \"amount\": 4500.00, \"merchant\": \"Luxury Watches Intl\", \"user_location\": \"US\", \"ip_location\": \"RU\", \"velocity\": \"3 transactions in 10 minutes\"}",
+        "noul_q": "Is there a geographical mismatch between the user's registered location and the IP address?",
+        "choice_q": "What automated fraud prevention action should be taken?",
+        "options": [
+            "Approve Transaction",
+            "Require SMS 2FA",
+            "Decline and Lock Card",
+            "Flag for Manual Review"
+        ]
+    },
+    {
+        "title": "Logistics & Supply Chain",
+        "state": "{\"shipment_id\": \"TRK-882\", \"current_location\": \"Denver, CO\", \"weather\": \"Severe Blizzard\", \"contents\": \"Perishable pharmaceuticals\", \"temp_sensor\": \"Normal\"}",
+        "noul_q": "Is the shipment currently experiencing a temperature control failure?",
+        "choice_q": "What routing adjustment should be applied?",
+        "options": [
+            "Reroute to Climate-Controlled Warehouse",
+            "Expedite via Air Freight",
+            "Maintain Current Route",
+            "Return to Sender"
+        ]
+    },
+    {
+        "title": "Human Resources (Applicant Tracking)",
+        "state": "{\"candidate\": \"APP-229\", \"role\": \"Senior Backend Engineer\", \"experience\": {\"python\": 5, \"go\": 1, \"kubernetes\": 3}, \"education\": \"B.S. Computer Science\"}",
+        "noul_q": "Does the candidate meet a minimum requirement of 4 years of Python experience?",
+        "choice_q": "What is the recommended next step for this application?",
+        "options": [
+            "Schedule Technical Screen",
+            "Send HackerRank Assessment",
+            "Reject due to under-qualification",
+            "Keep on file for future"
+        ]
+    },
+    {
+        "title": "Legal & Compliance",
+        "state": "{\"document_type\": \"Vendor MSA\", \"clause_4\": \"Vendor reserves the right to use anonymized customer data for internal AI model training.\", \"jurisdiction\": \"EU (GDPR)\"}",
+        "noul_q": "Does this clause potentially violate GDPR restrictions on data processing?",
+        "choice_q": "Which legal department needs to review this document?",
+        "options": [
+            "Data Privacy & Compliance",
+            "Intellectual Property",
+            "Labor & Employment",
+            "Standard Procurement"
+        ]
+    },
+    {
+        "title": "IoT & Smart Home Devices",
+        "state": "{\"device_type\": \"Smart Thermostat\", \"firmware\": \"v2.1.4\", \"sensor_reading\": \"Error -99\", \"ambient_temp_reported\": null, \"wifi_strength\": \"Excellent\"}",
+        "noul_q": "Is the device experiencing a network connectivity issue?",
+        "choice_q": "What command should the central hub issue to the device?",
+        "options": [
+            "Reboot Device",
+            "Factory Reset",
+            "Push Firmware Update",
+            "Enter Failsafe Mode"
+        ]
+    },
+    {
+        "title": "SaaS Customer Success (Churn Prediction)",
+        "state": "{\"account_id\": \"ACME-Corp\", \"mrr\": \"$2000\", \"active_users\": 2, \"total_seats\": 50, \"last_login\": \"14 days ago\", \"support_tickets_open\": 3}",
+        "noul_q": "Is this account exhibiting signs of high churn risk?",
+        "choice_q": "What intervention strategy should be applied?",
+        "options": [
+            "Automated Re-engagement Email",
+            "Assign Dedicated Success Manager",
+            "Offer Discounted Renewal",
+            "No Action Needed"
+        ]
+    }
+]
